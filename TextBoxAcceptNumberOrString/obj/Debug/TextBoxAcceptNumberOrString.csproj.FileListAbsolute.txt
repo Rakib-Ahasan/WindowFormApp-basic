@@ -1,0 +1,9 @@
+D:\Basic C#\TextBoxAcceptNumberOrString\bin\Debug\TextBoxAcceptNumberOrString.exe.config
+D:\Basic C#\TextBoxAcceptNumberOrString\bin\Debug\TextBoxAcceptNumberOrString.exe
+D:\Basic C#\TextBoxAcceptNumberOrString\bin\Debug\TextBoxAcceptNumberOrString.pdb
+D:\Basic C#\TextBoxAcceptNumberOrString\obj\Debug\TextBoxAcceptNumberOrString.csprojAssemblyReference.cache
+D:\Basic C#\TextBoxAcceptNumberOrString\obj\Debug\TextBoxAcceptNumberOrString.Form1.resources
+D:\Basic C#\TextBoxAcceptNumberOrString\obj\Debug\TextBoxAcceptNumberOrString.Properties.Resources.resources
+D:\Basic C#\TextBoxAcceptNumberOrString\obj\Debug\TextBoxAcceptNumberOrString.csproj.GenerateResource.cache
+D:\Basic C#\TextBoxAcceptNumberOrString\obj\Debug\TextBoxAcceptNumberOrString.exe
+D:\Basic C#\TextBoxAcceptNumberOrString\obj\Debug\TextBoxAcceptNumberOrString.pdb

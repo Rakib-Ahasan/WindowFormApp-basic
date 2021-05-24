@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29512.175
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddingCheckBoxValuesIntoSqlDb", "AddingCheckBoxValuesIntoSqlDb.csproj", "{4AAFB4F8-2B1B-4383-9D61-4EB204AF708A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AAFB4F8-2B1B-4383-9D61-4EB204AF708A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AAFB4F8-2B1B-4383-9D61-4EB204AF708A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AAFB4F8-2B1B-4383-9D61-4EB204AF708A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AAFB4F8-2B1B-4383-9D61-4EB204AF708A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F30D509-1224-433A-ABC3-36FFAE31953E}
+	EndGlobalSection
+EndGlobal

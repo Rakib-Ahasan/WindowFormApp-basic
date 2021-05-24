@@ -1,0 +1,11 @@
+D:\Basic C#\UI Design\MordernUiDesign\MordernUiDesign\bin\Debug\MordernUiDesign.exe.config
+D:\Basic C#\UI Design\MordernUiDesign\MordernUiDesign\bin\Debug\MordernUiDesign.exe
+D:\Basic C#\UI Design\MordernUiDesign\MordernUiDesign\bin\Debug\MordernUiDesign.pdb
+D:\Basic C#\UI Design\MordernUiDesign\MordernUiDesign\obj\Debug\MordernUiDesign.csprojAssemblyReference.cache
+D:\Basic C#\UI Design\MordernUiDesign\MordernUiDesign\obj\Debug\MordernUiDesign.Form1.resources
+D:\Basic C#\UI Design\MordernUiDesign\MordernUiDesign\obj\Debug\MordernUiDesign.Properties.Resources.resources
+D:\Basic C#\UI Design\MordernUiDesign\MordernUiDesign\obj\Debug\MordernUiDesign.csproj.GenerateResource.cache
+D:\Basic C#\UI Design\MordernUiDesign\MordernUiDesign\obj\Debug\MordernUiDesign.exe
+D:\Basic C#\UI Design\MordernUiDesign\MordernUiDesign\obj\Debug\MordernUiDesign.pdb
+D:\Basic C#\UI Design\MordernUiDesign\MordernUiDesign\obj\Debug\MordernUiDesign.Form2.resources
+D:\Basic C#\UI Design\MordernUiDesign\MordernUiDesign\obj\Debug\MordernUiDesign.Form3.resources

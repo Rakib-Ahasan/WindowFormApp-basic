@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29505.145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignUpAndLoginFom", "SignUpAndLoginFom.csproj", "{224F6B29-FD77-4DBA-B527-973252353B70}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LOGIN APP", "..\LOGIN APP\LOGIN APP.vdproj", "{4467F947-92F2-4448-8927-B4AE823EC064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{224F6B29-FD77-4DBA-B527-973252353B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224F6B29-FD77-4DBA-B527-973252353B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224F6B29-FD77-4DBA-B527-973252353B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224F6B29-FD77-4DBA-B527-973252353B70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4467F947-92F2-4448-8927-B4AE823EC064}.Debug|Any CPU.ActiveCfg = Debug
+		{4467F947-92F2-4448-8927-B4AE823EC064}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E976C123-8EDB-4E32-B6BE-A27D0D5FC798}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29512.175
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertRetriveUpdateAndDeletingImageFromDb", "InsertRetriveUpdateAndDeletingImageFromDb.csproj", "{1D3C0D72-B600-495A-86A5-4A4104ACDA1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D3C0D72-B600-495A-86A5-4A4104ACDA1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D3C0D72-B600-495A-86A5-4A4104ACDA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D3C0D72-B600-495A-86A5-4A4104ACDA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D3C0D72-B600-495A-86A5-4A4104ACDA1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {625861AE-6BD9-4D0F-92FD-B3AD14F16AA4}
+	EndGlobalSection
+EndGlobal

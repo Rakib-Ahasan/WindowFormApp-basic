@@ -1,0 +1,4 @@
+D:\Basic C#\Windows Form Applications\RetrivingDataFromDbUsingComboBoxInWin\obj\Release\RetrivingDataFromDbUsingComboBoxInWin.csprojAssemblyReference.cache
+D:\Basic C#\Windows Form Applications\RetrivingDataFromDbUsingComboBoxInWin\obj\Release\RetrivingDataFromDbUsingComboBoxInWin.Form1.resources
+D:\Basic C#\Windows Form Applications\RetrivingDataFromDbUsingComboBoxInWin\obj\Release\RetrivingDataFromDbUsingComboBoxInWin.Properties.Resources.resources
+D:\Basic C#\Windows Form Applications\RetrivingDataFromDbUsingComboBoxInWin\obj\Release\RetrivingDataFromDbUsingComboBoxInWin.csproj.GenerateResource.cache

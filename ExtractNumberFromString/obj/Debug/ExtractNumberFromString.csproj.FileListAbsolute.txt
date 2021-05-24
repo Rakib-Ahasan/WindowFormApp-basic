@@ -1,0 +1,9 @@
+D:\Basic C#\ExtractNumberFromString\bin\Debug\ExtractNumberFromString.exe.config
+D:\Basic C#\ExtractNumberFromString\bin\Debug\ExtractNumberFromString.exe
+D:\Basic C#\ExtractNumberFromString\bin\Debug\ExtractNumberFromString.pdb
+D:\Basic C#\ExtractNumberFromString\obj\Debug\ExtractNumberFromString.csprojAssemblyReference.cache
+D:\Basic C#\ExtractNumberFromString\obj\Debug\ExtractNumberFromString.Form1.resources
+D:\Basic C#\ExtractNumberFromString\obj\Debug\ExtractNumberFromString.Properties.Resources.resources
+D:\Basic C#\ExtractNumberFromString\obj\Debug\ExtractNumberFromString.csproj.GenerateResource.cache
+D:\Basic C#\ExtractNumberFromString\obj\Debug\ExtractNumberFromString.exe
+D:\Basic C#\ExtractNumberFromString\obj\Debug\ExtractNumberFromString.pdb

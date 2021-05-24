@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29512.175
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindingOneToAnotherComboBoxUsingSqlDB", "BindingOneToAnotherComboBoxUsingSqlDB.csproj", "{AA4A80F1-95E5-4072-9F39-16BDECA8205C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA4A80F1-95E5-4072-9F39-16BDECA8205C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA4A80F1-95E5-4072-9F39-16BDECA8205C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA4A80F1-95E5-4072-9F39-16BDECA8205C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA4A80F1-95E5-4072-9F39-16BDECA8205C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24EF4440-6E22-4731-87AE-6D21764829A0}
+	EndGlobalSection
+EndGlobal
